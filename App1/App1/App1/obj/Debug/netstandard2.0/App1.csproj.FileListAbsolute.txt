@@ -18,3 +18,4 @@ F:\BT\BT1\Test1\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
 F:\BT\BT1\Test1\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
 F:\BT\BT1\Test1\App1\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
 F:\BT\BT1\Test1\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+F:\BT\BT1\Test1\App1\App1\App1\obj\Debug\netstandard2.0\Views\UserPage.xaml.g.cs
