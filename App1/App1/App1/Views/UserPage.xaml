@@ -19,6 +19,9 @@
                         <x:String>monopoly</x:String>
                         <x:String>monomodal</x:String>
                         <x:String>mononucleosis</x:String>
+                        <x:String>monopoly</x:String>
+                        <x:String>monomodal</x:String>
+                        <x:String>mononucleosis</x:String>
                     </x:Array>
                 </ListView.ItemsSource>
             </ListView>
